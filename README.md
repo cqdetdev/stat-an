@@ -13,8 +13,7 @@ autoclicker to put a bot player in a combo for 50 sample clicks.
 The data was collected and then put into a basic one-sample t-test with the null hypothesis being that the reach was equal (or less than) 3.00
 while the alternative hypothesis was that reach exceeded 3.00
 
-The results found the found no statistically significance (SS) evidence that reach exceeded 3.00 on the legitimate client
-whereas there was SS evidence to suggest the 120ms, 200ms, and 400ms groups had higher server-side reach.
+The results found no statistical significance (SS) evidence that reach exceeded 3.00 for the legitimate client, while there was SS evidence suggesting that the 120ms, 200ms, and 400ms groups had higher server-side reach.
 
 __In simple terms, there is evidence to show that higher latencies generally have higher server-side reach__
 
