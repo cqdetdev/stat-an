@@ -1,4 +1,4 @@
-# Statiscal Analysis of Server-side Reach Calculations with Simulated High Latency
+# Statistical Analysis & Proof of Server-side Reach being Elevated with Simulated High Latency
 
 The aim of this repository is to provide the public (n=50) sample of server-side reach
 based off different latencies (0ms, 120ms, 200ms, 400ms).
